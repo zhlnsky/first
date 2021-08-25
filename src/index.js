@@ -4,4 +4,6 @@ const MY_CONST = 1;
 
 console.log(square(MC));
 
+console.log('HELLO');
+
 
